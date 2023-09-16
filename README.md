@@ -6,7 +6,7 @@
 
 <hr>
 
-[![Aaditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aaditya2704&theme=github)](https://github.com/aaditya2704)
+[![Aaditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aaditya2704&theme=github-compact)](https://github.com/aaditya2704)
 
 <hr>
 
